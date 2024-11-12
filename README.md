@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Acknowledgments
 
 This project was developed as a store assistant for Tokyo Store, utilizing multilingual capabilities and real-time voice recognition.
-```
+
