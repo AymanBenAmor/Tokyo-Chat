@@ -80,15 +80,9 @@ This will create an executable in the `dist` folder.
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Demo
 
-Click the image below to watch a video demo of the assistant in action:
-
-[![Watch Demo](assets/video_thumbnail.jpg)](https://drive.google.com/file/d/11hWDxoL5hE4GUlSv5FmhiAty7iTtSWFM/view?usp=drive_link)
 
 ## Acknowledgments
 
 This project was developed as a store assistant for Tokyo Store, utilizing multilingual capabilities and real-time voice recognition.
 ```
-
-Make sure to replace `<repository_url>` with the actual repository link if you plan to upload this to a version control platform like GitHub. Also, be sure the `LICENSE` file exists if referencing it.
